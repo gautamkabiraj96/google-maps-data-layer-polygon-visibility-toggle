@@ -1,2 +1,2 @@
-# google-maps-data-layer-polygon-visibility-toggle
+# google-maps-polygon-labels
 Created with CodeSandbox
